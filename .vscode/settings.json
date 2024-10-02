@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp",
+        "numeric": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "r.lsp.promptToInstall": false,
+    "C_Cpp.debugShortcut": true,
+}
