@@ -27,12 +27,3 @@ int main()
     
     return 0;
 }
-
-
-		// 一個指標陣列，大小為 rows
-		int **matrix = (int **)malloc(rows * sizeof(int *));
-    
-		// 為每一 rows 分配 cols 個記憶體
-		for (int i = 0; i < rows; i++) {
-				matrix[i] = (int *)malloc(cols * sizeof(int));
-		}
